@@ -1,0 +1,484 @@
+
+Analysis for 2023:
+
+STATEMENT OF FUNCTIONAL EXPENSES:
+Supportive Services: $2,023.00
+2023: $2,022.00
+: $583,048.00
+Stipends: $23,814.00
+23,814: $24,758.00
+Employee benefits: $42,833.00
+42,833: $36,720.00
+Payroll taxes: $20,494.00
+20,494: $16,536.00
+Personnel expense: $344,896.00
+344,896: $287,914.00
+(Note 5): $103,643.00
+103,643: $101,071.00
+Supplies: $6,486.00
+6,486: $3,913.00
+Food for participants: $31,608.00
+31,608: $26,003.00
+Office supplies and expense: $199.00
+199: $1,208.00
+Printing and postage: $1,722.00
+1,722: $1,196.00
+Travel: $3,389.00
+3,389: $644.00
+Telephone and internet: $1,354.00
+1,354: $4,736.00
+Computer supplies: $446.00
+Computer support services: $24,000.00
+24,000: $24,000.00
+Participant expenses: $50,798.00
+50,798: $31,381.00
+Participant exp.-Beyond Bethany: $88,350.00
+88,350: $52,855.00
+Professional fees: $14,129.00
+14,129: $20,464.00
+Filing fees: $15.00
+15: $40.00
+Insurance: $11,339.00
+11,339: $1,569.00
+1,569: $12,908.00
+12,908: $8,504.00
+Bank charges: $936.00
+936: $1,663.00
+Staff development: $482.00
+Board meetings: $702.00
+702: $750.00
+Other: $328.00
+328: $45.00
+45: $373.00
+373: $92.00
+Depreciation: $55.00
+55: $55.00
+(Note 7): $14,144.00
+14,144: $15,686.00
+
+STATEMENT OF ACTIVITIES:
+: $2,240,655.00
+Contributions-religious orders: $216,319.00
+216,319: $249,500.00
+249,500: $465,819.00
+465,819: $517,938.00
+Foundation grants: $149,068.00
+149,068: $2,500.00
+2,500: $151,568.00
+151,568: $36,250.00
+Churches and other organizations: $20,623.00
+20,623: $8,998.00
+(Note 7): $45,278.00
+45,278: $68,088.00
+Inkind contributions: $88,086.00
+88,086: $78,000.00
+Released from restrictions: $472,977.00
+Total public support: $1,110,466.00
+(220,977): $920,894.00
+889,489: $766,933.00
+Interest income: $31,405.00
+31,405: $6,489.00
+Total other revenue: $31,405.00
+Total revenues: $1,141,871.00
+920,894: $773,422.00
+Program expenses: $643,968.00
+643,968: $517,718.00
+Management and general: $41,595.00
+41,595: $49,644.00
+Fundraising expenses: $14,144.00
+14,144: $15,686.00
+Total expenses: $699,707.00
+699,707: $583,048.00
+Net assets-beginning of year: $1,620,324.00
+1,620,324: $620,331.00
+620,331: $2,240,655.00
+2,240,655: $2,050,281.00
+
+Analysis for 2022:
+
+STATEMENT OF FINANCIAL POSITION:
+: $2,057,821.00
+Pledges receivable: $31,660.00
+31,660: $30,213.00
+Prepaid expenses: $131,000.00
+131,000: $312,000.00
+
+STATEMENT OF ACTIVITIES:
+: $2,050,281.00
+Contributions-religious orders: $508,938.00
+508,938: $9,000.00
+9,000: $517,938.00
+517,938: $369,765.00
+Foundation grants: $36,250.00
+36,250: $750,402.00
+Churches and other organizations: $8,998.00
+8,998: $42,340.00
+(Note 7): $68,088.00
+68,088: $38,598.00
+Inkind contributions: $78,000.00
+78,000: $78,000.00
+Released from restrictions: $388,192.00
+Total public support: $1,146,125.00
+(379,192): $773,422.00
+766,933: $1,351,212.00
+Interest income: $6,489.00
+6,489: $792.00
+Total other revenue: $6,489.00
+Total revenues: $1,152,614.00
+773,422: $1,352,004.00
+Program expenses: $517,718.00
+517,718: $457,083.00
+Management and general: $49,644.00
+49,644: $16,413.00
+Fundraising expenses: $15,686.00
+15,686: $6,393.00
+Total expenses: $583,048.00
+583,048: $479,889.00
+Net assets-beginning of year: $1,050,758.00
+1,050,758: $999,523.00
+999,523: $2,050,281.00
+2,050,281: $1,178,166.00
+
+STATEMENT OF FUNCTIONAL EXPENSES:
+Fundraising: $2,022.00
+2022: $2,021.00
+: $479,889.00
+Stipends: $24,758.00
+24,758: $26,638.00
+Employee benefits: $36,720.00
+36,720: $39,694.00
+Payroll taxes: $16,536.00
+16,536: $14,587.00
+Personnel expense: $287,914.00
+287,914: $267,458.00
+(Note 5): $101,071.00
+101,071: $98,436.00
+Supplies: $3,913.00
+3,913: $3,398.00
+Food for participants: $26,003.00
+26,003: $21,182.00
+Office supplies and expense: $1,208.00
+1,208: $2,102.00
+Printing and postage: $1,196.00
+1,196: $314.00
+Travel: $644.00
+644: $537.00
+Vehicle expenses: $146.00
+Telephone and internet: $4,736.00
+4,736: $3,034.00
+Computer supplies: $446.00
+446: $2,970.00
+Computer support services: $24,000.00
+24,000: $24,000.00
+Participant expenses: $31,381.00
+31,381: $40,060.00
+Participant exp.-Beyond Bethany: $52,855.00
+52,855: $5,000.00
+Professional fees: $20,464.00
+20,464: $11,348.00
+Filing fees: $40.00
+40: $55.00
+Insurance: $6,985.00
+6,985: $1,519.00
+1,519: $8,504.00
+8,504: $13,994.00
+Bank charges: $1,663.00
+1,663: $546.00
+Other: $92.00
+Depreciation: $482.00
+482: $569.00
+(Note 7): $15,686.00
+15,686: $6,393.00
+
+STATEMENT OF CASH FLOWS:
+: $1,715,608.00
+Depreciation: $498.00
+498: $1,433.00
+Donation of vehicle at net book value: $181,000.00
+181,000: $185,500.00
+Prepaid expenses: $1,979.00
+1,979: $705.00
+(134): $1,060.00
+Deferred revenue: $371,772.00
+371,772: $1,041,959.00
+NET CASH PROVIDED BY OPERATIONS: $371,772.00
+INCREASE IN CASH: $1,715,608.00
+CASH, BEGINNING OF YEAR: $673,649.00
+
+Analysis for 2021:
+
+STATEMENT OF FINANCIAL POSITION:
+: $2,057,821.00
+Pledges receivable: $30,213.00
+30,213: $30,213.00
+Prepaid expenses: $312,000.00
+312,000: $312,000.00
+
+STATEMENT OF ACTIVITIES:
+: $2,050,281.00
+Contributions-religious orders: $167,765.00
+167,765: $202,000.00
+202,000: $369,765.00
+Foundation grants: $132,902.00
+132,902: $617,500.00
+617,500: $750,402.00
+Churches and other organizations: $13,490.00
+13,490: $28,850.00
+28,850: $42,340.00
+(Note 8): $38,598.00
+38,598: $38,598.00
+Inkind contributions: $78,000.00
+78,000: $78,000.00
+Released from restrictions: $382,922.00
+Total public support: $885,784.00
+885,784: $465,428.00
+465,428: $1,352,004.00
+Interest income: $792.00
+792: $792.00
+Total other revenue: $792.00
+Total revenues: $886,576.00
+886,576: $465,428.00
+Program expenses: $457,083.00
+457,083: $457,083.00
+Management and general: $16,413.00
+16,413: $16,413.00
+Fundraising expenses: $6,393.00
+6,393: $6,393.00
+Total expenses: $479,889.00
+479,889: $479,889.00
+$ 406,687: $465,428.00
+Net assets-beginning of year: $644,071.00
+644,071: $534,095.00
+534,095: $1,178,166.00
+
+STATEMENT OF FUNCTIONAL EXPENSES:
+: $479,889.00
+Stipends: $26,638.00
+26,638: $26,638.00
+Employee benefits: $39,694.00
+39,694: $39,694.00
+Payroll taxes: $14,587.00
+14,587: $14,587.00
+Personnel expense: $267,458.00
+267,458: $267,458.00
+(Note 6): $98,436.00
+98,436: $98,436.00
+Supplies: $3,398.00
+3,398: $3,398.00
+Food for participants: $21,182.00
+21,182: $21,182.00
+Office supplies and expense: $2,102.00
+2,102: $2,102.00
+Postage: $157.00
+157: $314.00
+Travel: $537.00
+537: $537.00
+Vehicle expenses: $146.00
+146: $146.00
+Telephone and internet: $3,034.00
+3,034: $3,034.00
+Computer supplies: $2,970.00
+2,970: $2,970.00
+Participant expenses: $45,060.00
+45,060: $45,060.00
+Professional fees: $11,348.00
+11,348: $11,348.00
+Filing fees: $55.00
+55: $55.00
+Insurance: $13,613.00
+13,613: $13,613.00
+Bank charges: $381.00
+381: $381.00
+Staff development: $569.00
+569: $569.00
+Board meetings: $391.00
+391: $391.00
+Advertising-job recruitment: $25.00
+25: $25.00
+(Note 2): $1,433.00
+1,433: $1,433.00
+Depreciation: $498.00
+498: $498.00
+(Note 8): $6,393.00
+6,393: $6,393.00
+
+STATEMENT OF CASH FLOWS:
+: $1,715,608.00
+Depreciation: $498.00
+Donation of vehicle at net book value: $1,433.00
+Pledges receivable: $185,500.00
+Accounts payable: $705.00
+Accrued payroll: $1,060.00
+Deferred revenue: $535,000.00
+NET CASH PROVIDED BY OPERATIONS: $1,041,959.00
+INCREASE IN CASH: $1,041,959.00
+CASH, BEGINNING OF YEAR: $673,649.00
+
+Analysis for 2020:
+
+STATEMENT OF FINANCIAL POSITION:
+: $497,500.00
+
+STATEMENT OF ACTIVITIES:
+: $68,871.00
+Contributions-religious orders: $235,104.00
+235,104: $497,500.00
+497,500: $732,604.00
+Foundation grants: $59,300.00
+Churches and other organizations: $6,000.00
+(Note 5): $34,247.00
+Inkind contributions: $121,240.00
+Released from restrictions: $163,441.00
+
+STATEMENT OF FUNCTIONAL EXPENSES:
+: $189,310.00
+Stipends: $47,253.00
+Employee benefits: $49,718.00
+Payroll taxes: $15,998.00
+Personnel expense: $302,279.00
+(Note 6): $90,836.00
+Supplies: $5,775.00
+Food for participants: $28,470.00
+Office supplies and expense: $3,160.00
+Postage: $110.00
+110: $109.00
+109: $219.00
+Travel: $468.00
+Vehicle expenses: $1,470.00
+Telephone and internet: $616.00
+Computer supplies: $3,101.00
+Participant expenses: $83,662.00
+Professional fees: $7,327.00
+Filing fees: $154.00
+Insurance: $5,282.00
+Bank charges: $995.00
+Depreciation: $125.00
+125: $97.00
+97: $1,287.00
+
+STATEMENT OF CASH FLOWS:
+: $673,649.00
+Depreciation: $1,287.00
+Accounts payable: $1,607.00
+NET CASH PROVIDED BY OPERATIONS: $73,650.00
+Payroll Protection Program (PPP) loan proceeds: $34,247.00
+NET CASH PROVIDED BY FINANCING ACTIVITIES: $34,247.00
+INCREASE IN CASH: $107,897.00
+CASH, BEGINNING OF YEAR: $565,752.00
+
+Analysis for 2019:
+
+STATEMENT OF FINANCIAL POSITION:
+: $695,438.00
+Pledges receivable: $12,468.00
+12,468: $12,468.00
+Prepaid expenses: $3,218.00
+3,218: $3,218.00
+
+STATEMENT OF ACTIVITIES:
+: $690,247.00
+Contributions-religious orders: $106,400.00
+106,400: $106,400.00
+Foundation grants: $258,175.00
+258,175: $258,175.00
+Churches and other organizations: $151,775.00
+151,775: $151,775.00
+Inkind contributions: $42,700.00
+42,700: $42,700.00
+Released from restrictions: $183,996.00
+Total public support: $472,183.00
+(77,596): $408,067.00
+Fundraising event: $9,470.00
+9470: $9,470.00
+Interest income: $4,010.00
+4010: $4,010.00
+Total other revenue: $13,480.00
+13480: $0.00
+0: $13,480.00
+Total revenues: $485,663.00
+Program expenses: $434,249.00
+434,249: $434,249.00
+Management and general: $10,795.00
+10,795: $10,795.00
+Fundraising expenses: $2,442.00
+2,442: $2,442.00
+Total expenses: $447,486.00
+447,486: $447,486.00
+Net assets-beginning of year: $486,281.00
+486,281: $243,385.00
+243,385: $729,666.00
+
+STATEMENT OF FUNCTIONAL EXPENSES:
+: $447,486.00
+Stipends: $23,674.00
+23,674: $23,674.00
+Employee benefits: $45,017.00
+45,017: $45,017.00
+Payroll taxes: $14,774.00
+14,774: $14,774.00
+Personnel expense: $235,860.00
+235,860: $235,860.00
+Occupancy: $57,890.00
+57,890: $57,890.00
+Supplies: $4,543.00
+4,543: $4,543.00
+Food for participants: $25,929.00
+25,929: $25,929.00
+Office supplies: $1,596.00
+1,596: $1,596.00
+Postage: $211.00
+211: $422.00
+Travel: $1,010.00
+1,010: $1,010.00
+Vehicle expenses: $2,427.00
+2,427: $2,427.00
+Telephone and internet: $1,120.00
+1,120: $1,120.00
+Computer supplies: $2,319.00
+2,319: $2,319.00
+Participant expenses: $95,100.00
+95,100: $95,100.00
+Professional fees: $8,027.00
+8,027: $8,027.00
+Filing fees: $25.00
+25: $25.00
+Insurance: $6,028.00
+6,028: $936.00
+936: $6,964.00
+Other: $356.00
+356: $356.00
+Fundraising expenses: $2,442.00
+2,442: $2,442.00
+Depreciation: $75.00
+75: $1,381.00
+1,381: $75.00
+
+STATEMENT OF CASH FLOWS:
+Depreciation: $1,381.00
+Pledges receivable: $81,000.00
+Accrued payroll: $786.00
+NET CASH PROVIDED BY OPERATIONS: $38,430.00
+INCREASE IN CASH: $36,135.00
+CASH, BEGINNING OF YEAR: $529,617.00
+: $565,752.00
+
+Total revenues across years:
+2023: $1,141,871.00
+2022: $1,152,614.00
+2021: $886,576.00
+2020: Data not available
+2019: $485,663.00
+
+Total expenses across years:
+2023: $699,707.00
+2022: $583,048.00
+2021: $479,889.00
+2020: Data not available
+2019: $447,486.00
+
+Surplus (deficit) from operations across years:
+2023: Data not available
+2022: Data not available
+2021: Data not available
+2020: Data not available
+2019: Data not available
